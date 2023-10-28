@@ -101,3 +101,15 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+[Bb]in
+[Bb]in-int
+*.mk
+*.project
+*.workspace
+compile_commands.json
+Makefile
+# generated directories
+.codelite/
+
+*.session
+*.tags
